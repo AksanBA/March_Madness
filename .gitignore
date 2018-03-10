@@ -6,3 +6,6 @@ PlayByPlay_2014
 PlayByPlay_2015
 PlayByPlay_2016
 PlayByPlay_2017
+*.csv
+.ipynb_checkpoints/Historic_Prediction-checkpoint.ipynb
+*.npy
