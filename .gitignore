@@ -9,3 +9,6 @@ PlayByPlay_2017
 *.csv
 .ipynb_checkpoints/Historic_Prediction-checkpoint.ipynb
 *.npy
+Stage2Result.csv
+Stage2Result1.csv
+Stage2Result2.csv
